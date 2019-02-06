@@ -1,0 +1,47 @@
+# Signatures Produced by ClassSig from 
+#    Class-Grid __1000001
+#    and Stack __1000000
+
+#    Number of selected grids
+/*           1
+#    Layer-Number    Band-name
+/*           1       outputName.tif\Band_1
+
+#  Type   Number of Classes   Number of Layers    Number of Parametric Layers
+    1             4                  1                         1
+# ===================================================================
+
+#  Class ID     Number of Cells    Class Name
+        1              5636         1
+# Layers             1
+# Means    
+                  0.61162
+# Covariance
+    1             0.00015
+# -------------------------------------------------------------------
+
+#  Class ID     Number of Cells    Class Name
+        2              3228         2
+# Layers             1
+# Means    
+                  0.49450
+# Covariance
+    1             0.00030
+# -------------------------------------------------------------------
+
+#  Class ID     Number of Cells    Class Name
+        3                13         3
+# Layers             1
+# Means    
+                  0.01590
+# Covariance
+    1             0.00060
+# -------------------------------------------------------------------
+
+#  Class ID     Number of Cells    Class Name
+        4                 9         4
+# Layers             1
+# Means    
+                  0.28392
+# Covariance
+    1             0.00395
